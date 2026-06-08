@@ -39,12 +39,12 @@ Every certificate here represents:
 ☁️ Personal Development
 ```
 📂 Certificates
-
+```text
 ├── 🖥️ QUANTUN COMPUTING
 ├── ☁️ CLOUD PRACTICIONER ESSENTIALS
 ├── 📈 DATA VISUALIZATION
 ├── 📊 DATA ANALYSIS
-
+```
 <div align="center">
 🌷 little reminder 🌷
 
@@ -52,4 +52,4 @@ Every certificate here represents:
 
 🎀 🌷 🎀 🌷 🎀
 
-</div> ```
+</div>
