@@ -53,3 +53,7 @@ Every certificate here represents:
 🎀 🌷 🎀 🌷 🎀
 
 </div>
+
+<p align="center">
+<img src="./assets/bea4be9d-28c3-44b5-ac31-c00b00d0f360.png" width="100%">
+</p>
