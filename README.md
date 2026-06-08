@@ -37,3 +37,19 @@ Every certificate here represents:
 🕊️ Problem Solving
 📖 Continuous Learning
 ☁️ Personal Development
+
+📂 Certificates
+
+├── 🖥️ QUANTUN COMPUTING
+├── ☁️ CLOUD PRACTICIONER ESSENTIALS
+├── 📈 DATA VISUALIZATION
+├── 📊 DATA ANALYSIS
+
+<div align="center">
+🌷 little reminder 🌷
+
+"the best project you'll ever work on is yourself"
+
+🎀 🌷 🎀 🌷 🎀
+
+</div> ```
