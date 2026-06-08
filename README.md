@@ -1,73 +1,62 @@
-# 🌷 My Learning Journey
-
 <div align="center">
 
-### ✨ Collecting Knowledge, One Certificate at a Time ✨
+# 𝓱𝓮𝓵𝓵𝓸, 𝓲'𝓶 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 ☁️
 
-*"Every certificate represents a skill learned, a challenge completed, and a step closer to my goals."*
+*"A collection of everything I've learned, explored, and achieved along the way."*
 
-🌸 💻 📚 ☕ 🎀
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=400&size=18&pause=1000&color=9E8B7A&center=true&vCenter=true&width=450&lines=learning+new+things;building+new+skills;collecting+small+wins" />
 
 </div>
 
 ---
 
-## 🌼 About This Repository
+## about this space
 
-Welcome to my certificate collection repository!
+This repository is my little archive of certificates, achievements, workshops, and courses completed throughout my academic journey.
 
-This space serves as a digital archive of my learning journey, showcasing certifications, courses, workshops, and achievements earned throughout my academic and professional growth.
-
-Each certificate reflects my commitment to continuous learning, curiosity, and self-improvement.
+Every certificate here represents a new skill, a completed challenge, and another step toward becoming the person I aspire to be.
 
 ---
 
-## 🎓 Learning Areas
+## currently interested in
 
-✨ Programming & Development
-
-✨ Data Science & Analytics
-
-✨ Artificial Intelligence & Machine Learning
-
-✨ Web Development
-
-✨ Cloud & Technology
-
-✨ Professional Development
-
-✨ Workshops & Events
+* data analytics
+* technology & innovation
+* problem solving
+* continuous learning
+* personal growth
 
 ---
 
-## 🌸 Why I Learn
+## my philosophy
 
-> Learning is not about collecting certificates.
+> growth is rarely loud.
 >
-> It's about building knowledge, developing skills, and becoming a better version of myself every day.
+> it's the quiet consistency,
+> the late-night studying,
+> the curiosity to learn one more thing,
+> and the courage to keep going.
 
 ---
 
-## 📖 Repository Structure
+## repository contents
 
 ```text
-📂 Certificates
- ├── Programming
- ├── Data Science
- ├── AI & ML
- ├── Web Development
- ├── Workshops
- └── Other Achievements
+certificates/
+│
+├── courses
+├── workshops
+├── technical_skills
+├── achievements
+└── learning_journey
 ```
 
 ---
 
 <div align="center">
 
-### 🌷 Keep Learning • Keep Growing • Keep Shining 🌷
-
-*"Small progress every day leads to big achievements tomorrow."*
-
-💖 Thanks for visiting 💖
+*"becoming better than yesterday."*
 
 </div>
