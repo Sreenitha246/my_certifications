@@ -28,6 +28,7 @@ Every certificate here represents:
 🕊️ growth
 
 📖 curiosity
+
 ---
 ## 🌸 Currently Growing In
 
@@ -38,7 +39,7 @@ Every certificate here represents:
 📖 Continuous Learning
 ☁️ Personal Development
 ```
-📂 Certificates
+## 📂 Certificates
 ```text
 ├── 🖥️ QUANTUN COMPUTING
 ├── ☁️ CLOUD PRACTICIONER ESSENTIALS
