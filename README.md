@@ -1,15 +1,17 @@
+</div>
+
+<p align="center">
+<img src="./assets/bea4be9d-28c3-44b5-ac31-c00b00d0f360.png" width="100%">
+</p>
 <div align="center">
 
 # 🌷 𝓜𝔂 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓙𝓸𝓾𝓻𝓷𝓮𝔂 🌷
-
 ╭────────────── 🎀 ──────────────╮
 
 *"collecting certificates, memories, and little victories."*
 
 ╰────────────── 🌷 ──────────────╯
-
 </div>
-
 <br>
 
 ## 🤍 About
@@ -26,9 +28,7 @@ Every certificate here represents:
 🕊️ growth
 
 📖 curiosity
-
 ---
-
 ## 🌸 Currently Growing In
 
 ```text
@@ -47,8 +47,4 @@ Every certificate here represents:
 ```
 
 
-</div>
 
-<p align="center">
-<img src="./assets/bea4be9d-28c3-44b5-ac31-c00b00d0f360.png" width="100%">
-</p>
